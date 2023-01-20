@@ -1,8 +1,24 @@
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PvvSfSDFoAL5e/giphy.gif" width="250"/>
 </div>
+
+<div id="badges" align="center">
+    <a href="www.linkedin.com/in/pierre-saumet">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
+
+<div id="counter" align="center">
+    <img src="https://komarev.com/ghpvc/?username=PierreSaumet&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 <!--
 **PierreSaumet/PierreSaumet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +34,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  <!-- <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
