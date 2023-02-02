@@ -19,8 +19,8 @@
 </p>
 
 
-<p align="left">
-<a href="https://linkedin.com/in/pierre-saumet" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pierre-saumet" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/pierre-saumet" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pierre-saumet" /></a>
 </p>
 
 
